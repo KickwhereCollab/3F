@@ -1,5 +1,5 @@
-const reverseLinklist = (linklist) => {
-  let node = linklist;
+const reverseLinkedList = (linkedList) => {
+  let node = linkedList;
   let prev = null;
 
   while(node) {
